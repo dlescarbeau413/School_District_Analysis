@@ -27,13 +27,17 @@ Top schools ranked by Overall PAssing Percentage without THS 9th Grade scores : 
 
 •	As far as breaking down the data by the grade, spending, size and school type there really is no difference except in the scores by grade and that’s because the math and reading grades were removed from the 9th grade at Thomas High School.
 
-Math scores with THS 9th Grade Scores :![](Images/fig7%20math%20with.PNG)
+Math scores with THS 9th Grade Scores :
+![](Images/fig7%20math%20with.PNG)
 
-Math scores without THS 9th Grade Scores: ![](Images/fig9%20math%20without.PNG)
+Math scores without THS 9th Grade Scores: 
+![](Images/fig9%20math%20without.PNG)
 
-Reading scores with THS 9th Grade Scores :![](Images/fig%208%20reading%20with.PNG)
+Reading scores with THS 9th Grade Scores :
+![](Images/fig%208%20reading%20with.PNG)
 
-Reading scores without THS 9th Grade Scores: ![](Images/fig10%20reading%20without.PNG)
+Reading scores without THS 9th Grade Scores:
+![](Images/fig10%20reading%20without.PNG)
 
 
 When we updated the scores, I thought there would have been a dramatic difference in the rankings and all the numbers. But as we saw, there really wasn’t much of an impact when removing the 9th grade reading and math scores from the analysis. The biggest difference that was seen was the drop in overall passing percentage, but even that was less than half a percentage point. 
