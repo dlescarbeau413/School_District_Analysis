@@ -31,7 +31,7 @@ Math scores with THS 9th Grade Scores :![](Images/fig7%20math%20with.PNG)
 
 Math scores without THS 9th Grade Scores: ![](Images/fig9%20math%20without.PNG)
 
-Reading scores with THS 9th Grade Scores :![](fig%208%20reading%20with.PNG)
+Reading scores with THS 9th Grade Scores :![](Images/fig%208%20reading%20with.PNG)
 
 Reading scores without THS 9th Grade Scores: ![](Images/fig10%20reading%20without.PNG)
 
